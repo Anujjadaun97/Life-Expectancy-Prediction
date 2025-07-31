@@ -87,7 +87,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Life_Expectancy_Regression_Using_ANN.git
+git clone https://github.com/Anujjadaun97/Life_Expectancy_Regression_Using_ANN.git
 cd Life_Expectancy_Regression_Using_ANN
 Install dependencies:
 
